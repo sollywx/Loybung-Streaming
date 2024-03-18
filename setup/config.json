@@ -1,66 +1,90 @@
 {
   "setup": {
-    "city": "mae sai",
-    "delay": 6.8
+    "city": "bien hoa",
+    "delay": 4.7
   },
   "config": {
     "options": {
-      "watch-url": ["https://www.youtube.com/watch?v=APbU9_tGa-0"],
+      "watch-url": ["https://www.youtube.com/watch?v=G7qhXHPeeGA"],
       "timestamp": "{end:1735664400}"
     },
-    "text-1": ["{NF4({hour:1}:{min:1} ⌯ {th=date}/{th=month:1}/{en=year:2})}"],
+    "text-1": [
+        "{NF4(「{hour:1} : {min:1}」 ♰ 「{th=date} / {th=month:1} / {en=year:2}」)}"
+    ],
     "text-2": [
-      "{NF4(〈1/10〉)} ⌥ 𝐖𝐢𝐥𝐝𝐦𝐮𝐭𝐭",
-      "{NF4(〈2/10〉)} ⌥ 𝐅𝐨𝐮𝐫𝐚𝐫𝐦𝐬",
-      "{NF4(〈3/10〉)} ⌥ 𝐆𝐫𝐚𝐲 𝐌𝐚𝐭𝐭𝐞𝐫",
-      "{NF4(〈4/10〉)} ⌥ 𝐗𝐋𝐑𝟖",
-      "{NF4(〈5/10〉)} ⌥ 𝐔𝐩𝐠𝐫𝐚𝐝𝐞",
-      "{NF4(〈6/10〉)} ⌥ 𝐃𝐢𝐚𝐦𝐨𝐧𝐝𝐡𝐞𝐚𝐝",
-      "{NF4(〈7/10〉)} ⌥ 𝐑𝐢𝐩𝐣𝐚𝐰𝐬",
-      "{NF4(〈8/10〉)} ⌥ 𝐒𝐭𝐢𝐧𝐤𝐟𝐥𝐲",
-      "{NF4(〈9/10〉)} ⌥ 𝐆𝐡𝐨𝐬𝐭𝐟𝐫𝐞𝐚𝐤",
-      "{NF4(〈10/10〉)} ⌥ 𝐇𝐞𝐚𝐭𝐛𝐥𝐚𝐬𝐭"
+        "-/ роговой § ;",
+        "- Люцифер топ $ ;",
+        "-/ Фоксик # z ;",
+        "` o/n hr # ;",
+        "- ZasenSexhod $ ;",
+        "-/ Флегматик $ ;",
+        "- anmpuré # kon ;",
+        "`sng ; luv"
     ],
     "text-3": [
-      "{NF4(🌏 {city} | ☀️ {uv})}",
-      "{NF4(🌡️ {temp:c} | 🍃 {wind:kph})}",
-      "{NF4(💧 {humidity} | ☁ {cloud})}"
+        "{NF4(🌡️ {temp:c}ㅤ⋆ㅤ🍃 {wind:kph})}"
     ],
     "bigimg": [
-      "https://i.pinimg.com/originals/a9/5f/53/a95f5386d9727ba29e65f87081a2f5a4.gif",
-      "https://i.pinimg.com/originals/20/d4/49/20d44988330785257828c65b68dbc271.gif",
-      "https://i.pinimg.com/originals/9e/f5/af/9ef5af8d5fcbd477600b28c5cc9a8d2d.gif",
-      "https://i.pinimg.com/originals/53/0d/74/530d7432c6eeb99d68bec7194dafc645.gif",
-      "https://i.pinimg.com/originals/1f/4e/66/1f4e6625345607a85008233158133cae.gif",
-      "https://i.pinimg.com/originals/d4/f4/4f/d4f44fa73cd1f0f07f1c4b925b913bf9.gif",
-      "https://i.pinimg.com/originals/0a/f4/40/0af4407cbbbf1acc68d49187c180291c.gif",
-      "https://i.pinimg.com/originals/c8/96/90/c896908a2b5153e67de5c39a212ef08f.gif",
-      "https://i.pinimg.com/originals/2f/08/e9/2f08e984ff29afa8453ec39fd1484317.gif",
-      "https://i.pinimg.com/originals/a0/7f/4b/a07f4b928684e1ba8af5244596d606be.gif"
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1201399281018482799/black-clover-black-clover-movie.gif?ex=66010c45&is=65ee9745&hm=10486d980a985e429fbe40a95c60b2ea806a39eb956298164295990567c44764&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1201399347066175498/kakashi-obito.gif?ex=66010c55&is=65ee9755&hm=6908bfbca3c333b4329b1615d47cd4d7044c30a6d135ae3519773d06a749fef8&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1202520555975082025/88f30209bc5e9862b33c296c8e77a22b.gif?ex=6605208a&is=65f2ab8a&hm=f0a4ca55b4c7a4d146adecacbe8bc8aa38a5e0f9be7bfbfb8e68a5657c4bd6ad&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1202520573830504498/4a82e2e8a4eba10dd66b40a21c1e43e1.gif?ex=6605208e&is=65f2ab8e&hm=27cce7f5ce2351508fd1b64f04bc097cb6d179bb880fa91ede8fefc0c71932a9&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1202528833081835531/51e42d52a141365ed1d55580f3b1c60f.gif?ex=6605283f&is=65f2b33f&hm=b49551462d088c5f2bf539bd5a9b2188e4532d32d4f79af5fcb3300077a97d4b&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1212703790197903380/603cf28abc715b82e22b4943b3383de2.gif?ex=6605426a&is=65f2cd6a&hm=8bb136fbb2885dfda8e6932d25132d46788a487979898a00767ef24db7ac86dd&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1212703790654824468/6d450c1497b2cda38f30a427848f11a3.gif?ex=6605426a&is=65f2cd6a&hm=acba41f34f71778a1fc6364bad625d89ea20f01cf64e2b93753324d732b77a3c&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1212703791019982848/7dce98ac902442a7f17f0a270148bc13.gif?ex=6605426a&is=65f2cd6a&hm=97cddd7d0de2309422dfa18f22e19f6bb3d833ae999393439761e54144726d80&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1212774092793454672/3370f83c71c11e4d28e5388190819dee.gif?ex=660583e3&is=65f30ee3&hm=b37b83a48fc204260d3f83b0aaf897844ead86a6a6712871a40379fee02d5421&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1213479749578661948/491e98a2c3e81f3efb34db8f9e4c62a8.gif?ex=66081515&is=65f5a015&hm=76a34b1c0821d675cf9f57940c1ca17da6cc3bd85575092e5d1ad66d3ad7423a&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1213002417113923634/5d2c44694918947aede42306cb7154d0.gif?ex=66065888&is=65f3e388&hm=5a5a58f4ae3713547dd92ef1fcef004a602b8e9f50faea2dfad48a50e03e4240&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1214369164882485268/b7b2df7afe07585c8fef27a21d279d92717f8404_hq.gif?ex=660216ea&is=65efa1ea&hm=9f435c5f73877ee8d8afc46b7d6cb6ef4075e322af4a0c4868a68c019bc15540&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1214574006376857600/dbef8931f8361d7df8c3f078b6055f36.gif?ex=6602d5b0&is=65f060b0&hm=d50290390d5081d45d2ca29ad688fa89553fcbe2782e38c2576909641070aed0&",
+        "https://cdn.discordapp.com/attachments/1105012685516570695/1139149991152193576/ad28f282030ac10304b2253f3cbc7b11.gif?ex=66054c9a&is=65f2d79a&hm=332d6c2b2613c83ec6bc12a511e10f017f23a26c970eaf1297fb4a3787fa6e6c&",
+        "https://cdn.discordapp.com/attachments/1105012685516570695/1139150072798515343/0c75c23a7d8293f6ed00761063bb932d.gif?ex=66054cad&is=65f2d7ad&hm=6bcf9715edde59e703dcbbeb8fe70072a06a41e564d3be3d919b09d3bf05d7e1&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1215535729933946892/2205a7765048928a23040380feafabee.gif?ex=6606555d&is=65f3e05d&hm=a0e93883cb30ce9f07c4c5f8d20e1c9b33c351244250c8bc43021cb9f7a0eade&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1215463432971882537/62ca321f6634ca858cf7ae81cfcb71a3.gif?ex=66061208&is=65f39d08&hm=b6a5c90f2f679008f79e7fc099c5ebca2c962a247f1dccd6462904994c274d36&",
+        "https://cdn.discordapp.com/attachments/1105012685516570695/1139149883035627583/4e4690fdda546b5314cd3ba6df7444ff.gif?ex=66054c80&is=65f2d780&hm=14416915ce1897232c32d2933392f2510e6cc71e58d3a4fde22bc17f0e2bc2a0&",
+        "https://cdn.discordapp.com/attachments/1139806795725013023/1143645498453008464/a366299efb2171ea09cd5504ddb31e85.gif?ex=6603325e&is=65f0bd5e&hm=32097d65176a900f686431ca9017357e15fb1454241ccd5617c1c6d2b597b778&",
+        "https://cdn.discordapp.com/attachments/1116694463658598412/1212703791418183750/b3dabc47f66ffd2d4830f5a3e440e5f1.gif?ex=6605426a&is=65f2cd6a&hm=275895aa7572202cb85f81dea196a9091f94c077d58e440381e4541dd2a79fa6&"
     ],
     "smallimg": [
-      "https://i.pinimg.com/564x/92/a1/a1/92a1a14bed732279f68be97ae9d1090f.jpg",
-      "https://i.pinimg.com/564x/3d/4c/b3/3d4cb3ec75479db54909d7f64e850ab1.jpg",
-      "https://i.pinimg.com/564x/67/27/da/6727da1e5cb3a8e04c1ca776a0a922b3.jpg",
-      "https://i.pinimg.com/564x/6b/45/f1/6b45f10ccd30ad56e82a1cf610b4f447.jpg",
-      "https://i.pinimg.com/564x/10/01/d5/1001d59399ee0b16c4354ec3dcf7d551.jpg",
-      "https://i.pinimg.com/564x/f3/0d/87/f30d87aa8f801762457e841915439aff.jpg",
-      "https://i.pinimg.com/564x/9b/7a/c0/9b7ac0a403edd77a439430d85f022569.jpg",
-      "https://i.pinimg.com/564x/0a/47/f4/0a47f48001dfba378822ca79ae924cae.jpg",
-      "https://i.pinimg.com/564x/39/74/5d/39745d5bf1fd14e2166cfb825e23efb3.jpg",
-      "https://i.pinimg.com/564x/4b/2d/f6/4b2df6a229646db2bff30f5ee8d8034c.jpg"
+      "https://cdn.discordapp.com/attachments/1133757817292066927/1139189148679417956/hotwheels.gif?ex=66057112&is=65f2fc12&hm=18c1fb19830c38dd94aaaa4de6cb52e5d86023c3838ccb5d45e18750d6b8ac2b&",
+      "https://cdn.discordapp.com/attachments/1116694463658598412/1219209698419544125/47ed4b3d8e04bfd1bbde56b7f1d349e1.gif?ex=660a7883&is=65f80383&hm=55c218d34e6c4256d9dbd86c2d2ce3d073cee735a4124a3731875f7fe760a99d&",
+      "https://cdn.discordapp.com/attachments/1133757817292066927/1147793034612846743/9b5823d7f5f28ddbd26a6dfb7b50f4b1.gif?ex=65ffd410&is=65ed5f10&hm=973a3a327cfb8e6b281d45543a48d82b843c85f3b7a819ad1fbe09d0263f9e64&",
+      "https://cdn.discordapp.com/attachments/1116694463658598412/1219210196031901766/92781de43b95427b1bc57579ddc5843a.gif?ex=660a78fa&is=65f803fa&hm=8970534cd15bb8ceec78eac41add9416f56f1997fb9a63c2e53e7c3b2a5bf7a8&",
+      "https://cdn.discordapp.com/attachments/1133757817292066927/1139189521926332486/logo-chrome_300x300.gif?ex=65fc36eb&is=65e9c1eb&hm=6de279d6f8e6e251085e7e794f8afe9549eac42958bb2ae4936357d6470b9974&" ,
+      "https://cdn.discordapp.com/attachments/1116694463658598412/1219210440333197363/IMG_8868.gif?ex=660a7934&is=65f80434&hm=2c21020d2a8e2923770b87b06e94a992559a288c79370862cee24918d1922d88&",
+      "https://cdn.discordapp.com/attachments/1116694463658598412/1219210439922290728/IMG_8869.gif?ex=660a7934&is=65f80434&hm=a0028b674aa114ec8a8bef248e2486ce2907d23c89f6fa35eaf089ba0647272f&"
     ],
     "button-1": [
+        {
+        "name": "` случайность $ ;",
+        "url": "https://facebook.com//solly1402"
+      },
       {
-        "name": "〉 Discord 〈",
-        "url": "https://discord.gg/XDPfrU4E9G"
+        "name": "- Диаметр o/һ ;",
+        "url": "https://www.instagram.com/soll_y14"
+      },
+      {
+        "name": "` скучный # ;",
+        "url": "https://discord.com/invite/CDr8XXYAD5"
+      },
+      {
+        "name": "- JasenSexhod $ ;",
+        "url": "https://soundcloud.com/solly1402"
+      },
+      {
+        "name": "@1 - tag purs",
+        "url": "https://www.xmanagerapp.com"
+      },
+      {
+        "name": "- hard ; # hr",
+        "url": "https://www.savethechildren.org/us/where-we-work/africa"
+      },
+      {
+        "name": "/$/",
+        "url": "https://www.pinterest.com/solly1402"
       }
     ],
-    "button-2": [
-      {
-        "name": "〉 Contact 〈",
-        "url": "https://linktr.ee/loybung"
-      }
-    ]
+    "button-2": []
   }
 }
